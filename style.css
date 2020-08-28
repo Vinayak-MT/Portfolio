@@ -1,0 +1,78 @@
+#navbar {
+    background-color: brown;
+    height: 50px;
+    display: block; 
+    position: fixed; 
+    width: 1333px;
+}
+
+#wel {
+    margin-left: 1000px;
+    color: white;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    padding: 10px;
+}
+
+#pro {
+    color: white;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    padding: 10px;
+}
+
+#cont {
+    color: white;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    padding: 10px;
+}
+
+#welcome-section {
+    padding: 250px;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+#hey {
+    font-size: 75px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#web {
+    font-family: cursive;
+    font-size: 30px;
+    margin-top: -40px;
+}
+
+#projects {
+    text-align: center;
+    background-color: slateblue;
+    margin-top: -62px;
+    font-family: fantasy;
+    font-size: 50px;
+    text-decoration-line: underline;
+}
+
+button {
+    display: block;
+    margin-left: 625px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+#contact {
+    text-align: center;
+    font-size: 60px;
+}
+
+#git {
+    color: blue;
+    font-size: 40px;
+    margin-left: 550px;
+    text-decoration-line: none;
+}
